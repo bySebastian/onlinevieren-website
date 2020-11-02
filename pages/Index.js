@@ -1,5 +1,4 @@
 import React from "react";
-import matter from "gray-matter";
 import Layout from "@components/Layout";
 import PostList from "@components/PostList";
 import getPosts from "@utils/getPosts";
